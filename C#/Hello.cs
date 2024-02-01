@@ -1,11 +1,11 @@
 using System;
-namespace Lab
+namespace Test
 {
     class Hello 
     {        
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Guys!");
         }
     }
 }
