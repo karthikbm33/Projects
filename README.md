@@ -1,5 +1,5 @@
 
-![Logo](https://i.postimg.cc/ht9DSCTM/logo.png)
+![Logo](https://i.postimg.cc/Y9rpPLLJ/Karthik-shet.png)
 
 
 # Projects
