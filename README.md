@@ -1,7 +1,11 @@
 
 ![Logo]([https://imgcdn.dev/i/YYHBNg](https://media-hosting.imagekit.io//31664d1558ef425a/screenshot_1739811304884.png?Expires=1834419306&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=yYhjN~JU4glysr~zbSKABJtnf5JL55nyDoTxweXl3xUzwqDcczG1O7ssWoIEoW1Q2ynLNaEnj-lwweSslLLfjQpOEOvGkn~kgNeVew-rJEjErr4IrrAP2FGSGxdEgZsmiZv8CG2VXCRGZ8vxpohKnJSKhGlf878HT3A2FnS4Oyhzx4bfinDE5XaS4IXk66djbThY-kldHMrLMWe3D-sRZYJVjl3mljWkMzmjF0tNbzF7n3rSTlqtGLm8g~ijlBN0I3PLGzDhk0LYxFEJmQyV9G80Rn1gtCAz2A9VAiE1yCjNT81q6u~8i5FL2~m6oyKF3bIkax8OiVPMFCYzYB4I0g__))
 
+<div align="center">
+<img src="https://media-hosting.imagekit.io//31664d1558ef425a/screenshot_1739811304884.png?Expires=1834419306&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=yYhjN~JU4glysr~zbSKABJtnf5JL55nyDoTxweXl3xUzwqDcczG1O7ssWoIEoW1Q2ynLNaEnj-lwweSslLLfjQpOEOvGkn~kgNeVew-rJEjErr4IrrAP2FGSGxdEgZsmiZv8CG2VXCRGZ8vxpohKnJSKhGlf878HT3A2FnS4Oyhzx4bfinDE5XaS4IXk66djbThY-kldHMrLMWe3D-sRZYJVjl3mljWkMzmjF0tNbzF7n3rSTlqtGLm8g~ijlBN0I3PLGzDhk0LYxFEJmQyV9G80Rn1gtCAz2A9VAiE1yCjNT81q6u~8i5FL2~m6oyKF3bIkax8OiVPMFCYzYB4I0g__" align="center" style="width: 100%" />
+</div>  
 
+ 
 # Projects
 
 In this Project we create a simple Project using C, C++, C# , Java, Pyhon & other's programming language.
