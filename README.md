@@ -3,7 +3,7 @@
 </div>  
 
  
-# Projects <img src="https://github.com/karthikbm33/Projects/blob/main/C%2B%2B/hmm.gif" width="42" height="40"> 
+# Projects <img src="https://github.com/karthikbm33/Others/blob/main/hmm.gif" width="42" height="40"> 
 
 In this Project we create a simple Project using C, C++, C# , Java, Pyhon & other's programming language.
 
