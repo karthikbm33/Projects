@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,40:203a43,100:2c5364&height=220&section=header&text=Karthikbm's%20Projects&fontSize=52&fontColor=00d4ff&fontAlignY=42&desc=%E2%9C%A6%20A%20Collection%20of%20Programs%20in%20C%20%7C%20C%2B%2B%20%7C%20C%23%20%7C%20Java%20%7C%20Python%20%26%20More&descSize=15&descAlignY=65&descColor=a8dadc&animation=fadeIn" width="100%" />
+<img src="https://media-hosting.imagekit.io//31664d1558ef425a/screenshot_1739811304884.png?Expires=1834419306&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=yYhjN~JU4glysr~zbSKABJtnf5JL55nyDoTxweXl3xUzwqDcczG1O7ssWoIEoW1Q2ynLNaEnj-lwweSslLLfjQpOEOvGkn~kgNeVew-rJEjErr4IrrAP2FGSGxdEgZsmiZv8CG2VXCRGZ8vxpohKnJSKhGlf878HT3A2FnS4Oyhzx4bfinDE5XaS4IXk66djbThY-kldHMrLMWe3D-sRZYJVjl3mljWkMzmjF0tNbzF7n3rSTlqtGLm8g~ijlBN0I3PLGzDhk0LYxFEJmQyV9G80Rn1gtCAz2A9VAiE1yCjNT81q6u~8i5FL2~m6oyKF3bIkax8OiVPMFCYzYB4I0g__" width="100%" />
 
 <br/>
 
