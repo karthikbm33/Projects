@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://media-
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python&theme=dark" />
 
 <br/><br/>
