@@ -1,78 +1,56 @@
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║        Replace every [ ] placeholder with your info        ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
 
-<!-- ░░░ ANIMATED HERO BANNER ░░░ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF6B35,30:F7931E,60:FFD23F,100:FF6B35&height=280&section=header&text=%F0%9F%94%A5%20AppName&fontSize=72&fontColor=ffffff&fontAlignY=45&desc=The%20app%20that%20redefines%20the%20experience&descSize=18&descAlignY=65&descColor=ffffffcc&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,40:203a43,100:2c5364&height=220&section=header&text=Karthikbm's%20Projects&fontSize=52&fontColor=00d4ff&fontAlignY=42&desc=%E2%9C%A6%20A%20Collection%20of%20Programs%20in%20C%20%7C%20C%2B%2B%20%7C%20C%23%20%7C%20Java%20%7C%20Python%20%26%20More&descSize=15&descAlignY=65&descColor=a8dadc&animation=fadeIn" width="100%" />
 
 <br/>
 
-<!-- ░░░ APP SCREENSHOT ░░░ -->
-<img src="https://media-hosting.imagekit.io//31664d1558ef425a/screenshot_1739811304884.png?Expires=1834419306&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=yYhjN~JU4glysr~zbSKABJtnf5JL55nyDoTxweXl3xUzwqDcczG1O7ssWoIEoW1Q2ynLNaEnj-lwweSslLLfjQpOEOvGkn~kgNeVew-rJEjErr4IrrAP2FGSGxdEgZsmiZv8CG2VXCRGZ8vxpohKnJSKhGlf878HT3A2FnS4Oyhzx4bfinDE5XaS4IXk66djbThY-kldHMrLMWe3D-sRZYJVjl3mljWkMzmjF0tNbzF7n3rSTlqtGLm8g~ijlBN0I3PLGzDhk0LYxFEJmQyV9G80Rn1gtCAz2A9VAiE1yCjNT81q6u~8i5FL2~m6oyKF3bIkax8OiVPMFCYzYB4I0g__" width="320px" alt="App Preview" />
+<img src="https://media-hosting.imagekit.io//31664d1558ef425a/screenshot_1739811304884.png?Expires=1834419306&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=yYhjN~JU4glysr~zbSKABJtnf5JL55nyDoTxweXl3xUzwqDcczG1O7ssWoIEoW1Q2ynLNaEnj-lwweSslLLfjQpOEOvGkn~kgNeVew-rJEjErr4IrrAP2FGSGxdEgZsmiZv8CG2VXCRGZ8vxpohKnJSKhGlf878HT3A2FnS4Oyhzx4bfinDE5XaS4IXk66djbThY-kldHMrLMWe3D-sRZYJVjl3mljWkMzmjF0tNbzF7n3rSTlqtGLm8g~ijlBN0I3PLGzDhk0LYxFEJmQyV9G80Rn1gtCAz2A9VAiE1yCjNT81q6u~8i5FL2~m6oyKF3bIkax8OiVPMFCYzYB4I0g__" width="300px" alt="Project Preview" />
 
 <br/><br/>
 
-<!-- ░░░ BADGES ROW 1 ░░░ -->
-[![Version](https://img.shields.io/badge/version-1.0.0-FF6B35?style=for-the-badge&logo=semanticrelease&logoColor=white)](https://github.com/[username]/[repo]/releases)&nbsp;
-[![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-FFD23F?style=for-the-badge&logo=flutter&logoColor=black)](https://github.com/[username]/[repo])&nbsp;
-[![License](https://img.shields.io/badge/License-MIT-F7931E?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](./LICENSE)&nbsp;
-[![Stars](https://img.shields.io/github/stars/[username]/[repo]?style=for-the-badge&logo=apachespark&color=FF6B35&logoColor=white&label=Stars)](https://github.com/[username]/[repo]/stargazers)
+[![GitHub](https://img.shields.io/badge/Author-Karthikbm33-00d4ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karthikbm33)&nbsp;
+[![Languages](https://img.shields.io/badge/Languages-C%20%7C%20C%2B%2B%20%7C%20C%23%20%7C%20Java%20%7C%20Python-2c5364?style=for-the-badge&logo=code&logoColor=00d4ff)](https://github.com/karthikbm33)&nbsp;
+[![License](https://img.shields.io/badge/License-MIT-203a43?style=for-the-badge&logo=opensourceinitiative&logoColor=00d4ff)](./LICENSE)
 
-<!-- ░░░ BADGES ROW 2 ░░░ -->
-[![Build](https://img.shields.io/github/actions/workflow/status/[username]/[repo]/main.yml?style=for-the-badge&logo=githubactions&logoColor=white&label=Build)](https://github.com/[username]/[repo]/actions)&nbsp;
-[![Issues](https://img.shields.io/github/issues/[username]/[repo]?style=for-the-badge&logo=gitbook&color=FFD23F&logoColor=black&label=Issues)](https://github.com/[username]/[repo]/issues)&nbsp;
-[![PRs](https://img.shields.io/badge/PRs-Welcome-F7931E?style=for-the-badge&logo=git&logoColor=white)](./CONTRIBUTING.md)&nbsp;
-[![Downloads](https://img.shields.io/badge/Downloads-10K%2B-FF6B35?style=for-the-badge&logo=googledrive&logoColor=white)](https://github.com/[username]/[repo])
+[![Stars](https://img.shields.io/github/stars/karthikbm33?style=for-the-badge&logo=apachespark&color=0f2027&logoColor=00d4ff&label=Stars)](https://github.com/karthikbm33)&nbsp;
+[![Followers](https://img.shields.io/github/followers/karthikbm33?style=for-the-badge&logo=github&color=203a43&logoColor=00d4ff&label=Followers)](https://github.com/karthikbm33)&nbsp;
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-2c5364?style=for-the-badge&logo=git&logoColor=00d4ff)](./CONTRIBUTING.md)
 
 <br/>
 
-<!-- ░░░ QUICK LINKS ░░░ -->
-**[🚀 Live Demo](#demo)** &nbsp;•&nbsp; **[📖 Docs](https://[your-docs].com)** &nbsp;•&nbsp; **[🐞 Report Bug](https://github.com/[username]/[repo]/issues/new)** &nbsp;•&nbsp; **[✨ Request Feature](https://github.com/[username]/[repo]/issues/new)** &nbsp;•&nbsp; **[💬 Discussions](https://github.com/[username]/[repo]/discussions)**
+**[🌐 Portfolio](https://linktr.ee/karthikbm)** &nbsp;•&nbsp; **[💼 LinkedIn](http://www.linkedin.com/in/karthikbm33)** &nbsp;•&nbsp; **[🐦 Twitter](https://x.com/Karthikbm33)** &nbsp;•&nbsp; **[✉️ Email](mailto:karthikshet21@yahoo.com)** &nbsp;•&nbsp; **[💬 Telegram](https://t.me/Chat_kpt)**
 
 </div>
 
-<br/>
-
 ---
 
 <br/>
 
-## 📌 Table of Contents
-
-<details>
-<summary>Click to expand</summary>
-
-- [🎯 Overview](#-overview)
-- [✨ Features](#-features)
-- [📸 Screenshots](#-screenshots)
-- [🛠️ Tech Stack](#%EF%B8%8F-tech-stack)
-- [🚀 Getting Started](#-getting-started)
-- [📂 Project Structure](#-project-structure)
-- [🔌 API Reference](#-api-reference)
-- [🗺️ Roadmap](#%EF%B8%8F-roadmap)
-- [🤝 Contributing](#-contributing)
-- [📜 License](#-license)
-- [👥 Team](#-team)
-
-</details>
-
-<br/>
-
----
-
-## 🎯 Overview
+## <img src="https://github.com/karthikbm33/Others/blob/main/hmm.gif" width="32" height="30"> About the Projects
 
 <table>
 <tr>
 <td>
 
-**[AppName]** is a beautifully crafted mobile application designed to deliver a seamless, lightning-fast experience. Built with precision and passion, it sets a new standard for what mobile apps can look and feel like.
+Welcome to my **Projects Repository** — a growing collection of programs and mini-applications built across multiple programming languages.
 
-Whether you're a first-time user or a power user, **[AppName]** adapts to you — providing a frictionless interface that just *works*.
+Each project is crafted to practice core concepts like **logic building**, **data structures**, **OOP**, and **problem solving** — all from scratch, with clean and readable code.
 
-> 💡 **TL;DR** — Beautiful. Fast. Reliable. Everything you need, nothing you don't.
+> 💡 **Perfect for** — beginners looking to learn by example, or developers revisiting fundamentals.
+
+</td>
+<td align="center" width="220">
+
+```
+  Languages Used
+  ──────────────
+  🔵  C
+  🟣  C++
+  🟢  C#
+  🟠  Java
+  🟡  Python
+  ⚪  & more...
+```
 
 </td>
 </tr>
@@ -84,20 +62,16 @@ Whether you're a first-time user or a power user, **[AppName]** adapts to you �
 
 ## ✨ Features
 
-<br/>
-
 <div align="center">
 
-| 🎨 Feature | 📝 Description |
-|:---|:---|
-| ⚡ **Ultra Fast** | Sub-second load times powered by optimized rendering |
-| 🌙 **Dark / Light Mode** | Eye-friendly theming that follows your system preference |
-| 🔔 **Smart Notifications** | Context-aware alerts that respect your focus time |
-| 🔐 **Secure Auth** | Biometric + OAuth2 login — zero password hassle |
-| 🌍 **Offline First** | Works without internet — syncs seamlessly when reconnected |
-| 🎯 **Personalized** | AI-powered recommendations tailored just for you |
-| 📊 **Analytics Dashboard** | Real-time insights at a glance |
-| 🔄 **Cross-Platform Sync** | Your data, everywhere, always in sync |
+| # | Feature | Description |
+|:---:|:---|:---|
+| 🔐 | **Login System** | User authentication with credential validation |
+| 📋 | **Menu List** | Interactive navigation menus for each program |
+| 📤 | **Output Display** | Formatted, readable console output |
+| 🧩 | **Multi-Language** | Same logic implemented across different languages |
+| 📁 | **Clean Structure** | Every project is organized and well-commented |
+| 🔰 | **Beginner Friendly** | Simple, easy-to-follow code for all levels |
 
 </div>
 
@@ -105,118 +79,20 @@ Whether you're a first-time user or a power user, **[AppName]** adapts to you �
 
 ---
 
-## 📸 Screenshots
+## 🛠️ Languages & Tools
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center"><b>🏠 Home</b></td>
-    <td align="center"><b>🔍 Discover</b></td>
-    <td align="center"><b>👤 Profile</b></td>
-    <td align="center"><b>⚙️ Settings</b></td>
-  </tr>
-  <tr>
-    <td><img src="[screenshot-home-url]" width="180" alt="Home Screen"/></td>
-    <td><img src="[screenshot-discover-url]" width="180" alt="Discover Screen"/></td>
-    <td><img src="[screenshot-profile-url]" width="180" alt="Profile Screen"/></td>
-    <td><img src="[screenshot-settings-url]" width="180" alt="Settings Screen"/></td>
-  </tr>
-</table>
-
-> 📱 *Screenshots captured on iPhone 15 Pro & Pixel 8 Pro*
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00427E?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
-
-<br/>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Frontend
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### Database & Cache
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-</div>
-
-<br/>
-
----
-
-## 🚀 Getting Started
-
-### 📋 Prerequisites
-
-Before you begin, ensure you have:
-
-```
-✅ Flutter SDK >= 3.0.0
-✅ Dart >= 3.0.0
-✅ Android Studio / Xcode
-✅ Git >= 2.30
-✅ Node.js >= 18 (for backend)
-```
-
-### ⚙️ Installation
-
-```bash
-# ──────────────────────────────────
-# STEP 1 — Clone the repository
-# ──────────────────────────────────
-git clone https://github.com/[username]/[repo].git
-cd [repo]
-
-# ──────────────────────────────────
-# STEP 2 — Install Flutter dependencies
-# ──────────────────────────────────
-flutter pub get
-
-# ──────────────────────────────────
-# STEP 3 — Set up environment
-# ──────────────────────────────────
-cp .env.example .env
-# Edit .env with your credentials
-
-# ──────────────────────────────────
-# STEP 4 — Run the app 🎉
-# ──────────────────────────────────
-flutter run
-```
-
-### 🔥 Run on specific platform
-
-```bash
-flutter run -d android     # Android
-flutter run -d ios         # iOS (macOS required)
-flutter run -d chrome      # Web
-flutter run -d windows     # Windows Desktop
-```
-
-### 🏗️ Build for production
-
-```bash
-flutter build apk --release           # Android APK
-flutter build appbundle --release     # Android App Bundle
-flutter build ios --release           # iOS
-flutter build web --release           # Web
-```
 
 <br/>
 
@@ -225,27 +101,30 @@ flutter build web --release           # Web
 ## 📂 Project Structure
 
 ```
-📦 [repo]/
-├── 📂 lib/
-│   ├── 📂 core/
-│   │   ├── 📂 config/          # App configuration & constants
-│   │   ├── 📂 theme/           # Light & dark themes
-│   │   └── 📂 utils/           # Utility functions
-│   ├── 📂 data/
-│   │   ├── 📂 models/          # Data models
-│   │   ├── 📂 repositories/    # Data access layer
-│   │   └── 📂 services/        # API & local services
-│   ├── 📂 presentation/
-│   │   ├── 📂 screens/         # App screens
-│   │   ├── 📂 widgets/         # Reusable widgets
-│   │   └── 📂 bloc/            # State management (BLoC)
-│   └── 📄 main.dart            # 🚪 Entry point
-├── 📂 assets/
-│   ├── 📂 images/              # App images & illustrations
-│   ├── 📂 icons/               # Custom icon sets
-│   └── 📂 fonts/               # Typography
-├── 📂 test/                    # Unit & widget tests
-├── 📄 pubspec.yaml             # Dependencies
+📦 Projects/
+│
+├── 📂 C/
+│   ├── 📄 login_system.c
+│   ├── 📄 menu_list.c
+│   └── 📄 ...
+│
+├── 📂 C++/
+│   ├── 📄 login_system.cpp
+│   ├── 📄 menu_list.cpp
+│   └── 📄 ...
+│
+├── 📂 CSharp/
+│   ├── 📄 LoginSystem.cs
+│   └── 📄 ...
+│
+├── 📂 Java/
+│   ├── 📄 LoginSystem.java
+│   └── 📄 ...
+│
+├── 📂 Python/
+│   ├── 📄 login_system.py
+│   └── 📄 ...
+│
 └── 📄 README.md
 ```
 
@@ -253,87 +132,71 @@ flutter build web --release           # Web
 
 ---
 
-## 🔌 API Reference
+## 🚀 Getting Started
 
-<details>
-<summary><b>🔐 Authentication</b></summary>
+### Clone & Run
 
-```http
-POST /api/v1/auth/register
-POST /api/v1/auth/login
-POST /api/v1/auth/refresh
-DELETE /api/v1/auth/logout
+```bash
+# Clone the repository
+git clone https://github.com/karthikbm33/Projects.git
+cd Projects
 ```
 
-</details>
+### ▶️ Run by Language
 
-<details>
-<summary><b>👤 User</b></summary>
+```bash
+# C
+gcc login_system.c -o output && ./output
 
-```http
-GET    /api/v1/user/profile
-PUT    /api/v1/user/profile
-DELETE /api/v1/user/account
+# C++
+g++ login_system.cpp -o output && ./output
+
+# Java
+javac LoginSystem.java && java LoginSystem
+
+# Python
+python login_system.py
+
+# C#
+dotnet run
 ```
-
-</details>
-
-<details>
-<summary><b>📦 Content</b></summary>
-
-```http
-GET  /api/v1/content?page=1&limit=20
-GET  /api/v1/content/:id
-POST /api/v1/content
-PUT  /api/v1/content/:id
-```
-
-</details>
-
-> 📚 Full API documentation available at **[your-docs-url.com/api]()**
 
 <br/>
 
 ---
 
-## 🗺️ Roadmap
+## 👤 Author
 
-```
-2025 Q1  ████████████████████  ✅ Initial release & core features
-2025 Q2  ████████████░░░░░░░░  🔄 Offline sync & performance boost
-2025 Q3  ░░░░░░░░░░░░░░░░░░░░  🔮 AI-powered recommendations
-2025 Q4  ░░░░░░░░░░░░░░░░░░░░  🔮 Web & Desktop apps
-2026 Q1  ░░░░░░░░░░░░░░░░░░░░  🔮 Marketplace & integrations
-```
+<div align="center">
 
-- [x] 🎨 UI/UX overhaul
-- [x] 🔐 Biometric authentication
-- [x] 🌙 Dark mode support
-- [x] 📱 Android & iOS support
-- [ ] 🌐 Web app *(in progress)*
-- [ ] 🤖 AI personalization *(planned)*
-- [ ] 🛒 In-app marketplace *(planned)*
-- [ ] 🌍 Multi-language support *(planned)*
+<img src="https://github.com/karthikbm33.png" width="100" style="border-radius:50%; border: 3px solid #00d4ff;" alt="Karthikbm"/>
+
+### **Karthikbm** 🚀
+
+*Passionate developer building one project at a time.*
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=ko-fi&logoColor=00d4ff)](https://linktr.ee/karthikbm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/karthikbm33)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Karthikbm33)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karthikbm33)
+
+</div>
 
 <br/>
 
 ---
 
-## 🤝 Contributing
+## 💬 Support
 
-We welcome contributions from everyone! Here's how to get involved:
+Got a question or just want to say hi?
 
-```
-1. 🍴  Fork the repository
-2. 🌿  git checkout -b feature/your-feature-name
-3. ✏️   Make your changes & write tests
-4. ✅   Run: flutter test
-5. 📝  git commit -m "feat: your descriptive message"
-6. 📤  git push origin feature/your-feature-name
-7. 🔁  Open a Pull Request — we'll review it promptly!
-```
-
-Please read our **[Contributing Guidelines](./CONTRIBUTING.md)** and follow our **[Code of Conduct](./CODE_OF_CONDUCT.md)**.
+| Channel | Link |
+|:---|:---|
+| 📧 **Email** | [karthikshet21@yahoo.com](mailto:karthikshet21@yahoo.com) |
+| 💬 **Telegram** | [Chat_kpt](https://t.me/Chat_kpt) |
+| 🐛 **Issues** | [GitHub Issues](https://github.com/karthikbm33/Projects/issues) |
 
 <br/>
 
@@ -342,82 +205,24 @@ Please read our **[Contributing Guidelines](./CONTRIBUTING.md)** and follow our 
 ## 📜 License
 
 ```
-MIT License — Copyright (c) 2025 [Your Name]
-
-Permission is hereby granted, free of charge, to any person obtaining
-a copy of this software to use, copy, modify, merge, publish, distribute,
-sublicense, and/or sell copies of the Software.
+MIT License — Copyright (c) 2025 Karthikbm
+Free to use, modify, and distribute with attribution.
 ```
 
-See the full **[LICENSE](./LICENSE)** file for details.
-
-<br/>
-
----
-
-## 👥 Team
-
-<div align="center">
-
-| <img src="https://github.com/[username].png" width="80" style="border-radius:50%"/> |
-|:---:|
-| **[Your Name]** |
-| Lead Developer |
-| [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/[username]) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/[handle]) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/[profile]) |
-
-</div>
-
 <br/>
 
 ---
 
 <div align="center">
 
-### 💖 Support the Project
+*If this helped you, drop a* ⭐ *— it keeps me motivated!*
 
-If **[AppName]** helped you, please consider giving it a ⭐ — it means the world!
-
-[![⭐ Star on GitHub](https://img.shields.io/badge/%E2%AD%90%20Star%20this%20repo-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[username]/[repo])&nbsp;
-[![🐦 Share on Twitter](https://img.shields.io/badge/%F0%9F%90%A6%20Share%20on%20Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/tweet?text=Check%20out%20this%20amazing%20project!%20https://github.com/[username]/[repo])
+[![Star](https://img.shields.io/badge/%E2%AD%90%20Star%20this%20Repo-0f2027?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/karthikbm33)
 
 <br/>
 
----
+*Made with* ❤️ *by* **[Karthikbm](https://github.com/karthikbm33)**
 
-*Crafted with* ❤️ *and* ☕ *by* **[[Your Name]](https://github.com/[username])** &nbsp;•&nbsp; *[City, Country]*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:F7931E,100:FFD23F&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
 
 </div>
-
- 
-# Projects <img src="https://github.com/karthikbm33/Others/blob/main/hmm.gif" width="42" height="40"> 
-
-In this Project we create a simple Project using C, C++, C# , Java, Pyhon & other's programming language.
-
-
-
-## Author
-
-- [@Karthikbm](https://www.github.com/Karthikbm33)
-
-
-## Features
-
-- Login 
-- Menu List
-- Output
-
-
-
-
-## Support
-
-For support, email karthikshet21@yahoo.com or join our Chat_kpt channel in telegram.
-
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://linktr.ee/karthikbm)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/karthikbm33)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Karthikbm33)
-
