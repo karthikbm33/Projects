@@ -190,7 +190,7 @@ Got a question or just want to say hi?
 
 | Channel | Link |
 |:---|:---|
-| 📧 **Email** | [karthikshet21@yahoo.com](mailto:karthikshet21@yahoo.com) |
+| 📧 **Email** | [karthikshet21@yahoo.com](mailto:karthikbm5@zohomail.in) |
 | 💬 **Telegram** | [Chat_kpt](https://t.me/Chat_kpt) |
 | 🐛 **Issues** | [GitHub Issues](https://github.com/karthikbm33/Projects/issues) |
 
